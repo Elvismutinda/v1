@@ -14,6 +14,12 @@ This is my personal portfolio built with Next.js
    npm install
     ```
 
+   If you're using yarn:
+
+   ```
+   yarn install
+   ```
+
     Packages (Run each on its own)
 
     ```
@@ -31,7 +37,11 @@ This is my personal portfolio built with Next.js
    ```
    npm run dev
    ```
+   Or if you're using yarn:
 
+   ```
+   yarn run dev
+   ```
 The app will then be accessed in your browser on `http://localhost:3000`
 
 To get the documentaries for some of the packages, you could visit the following sites:
