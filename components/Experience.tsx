@@ -46,7 +46,7 @@ function ExperienceTest({}: Props) {
               workIntellisoft
                 ? "border-2 border-green-500 text-green-500"
                 : "border-2 hover:border-gray-700 text-gray-700"
-            } border-2 bg-transparent hover:bg-[#112240] py-3 text-sm cursor-pointer duration-300 px-8 font-medium`}
+            } border-2 bg-transparent hover:bg-transparent py-3 text-sm cursor-pointer duration-300 px-8 font-medium`}
           >
             IntelliSOFT Consulting Limited
           </li>
@@ -56,7 +56,7 @@ function ExperienceTest({}: Props) {
               workAmazonTest
                 ? "border-2 border-green-500 text-green-500"
                 : "border-2 hover:border-gray-700 text-gray-700"
-            } border-2 bg-transparent hover:bg-[#112240] py-3 text-sm cursor-pointer duration-300 px-8 font-medium`}
+            } border-2 bg-transparent hover:bg-transparent py-3 text-sm cursor-pointer duration-300 px-8 font-medium`}
           >
             Amazon test
           </li>
