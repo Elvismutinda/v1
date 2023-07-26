@@ -2,6 +2,8 @@
 
 This is my personal portfolio built with Next.js
 
+### The portfolio is still in development!!!
+
 ## How To Run the App
 
 1. Clone the repository
