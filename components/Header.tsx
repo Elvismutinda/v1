@@ -26,33 +26,38 @@ function Header({}: Props) {
       >
         {/* Social Icons */}
         <SocialIcon
-          url="https://github.com/Elvocool"
+          url="https://github.com/Elvismutinda"
           fgColor="currentColor"
           bgColor="transparent"
+          target="_blank"
           className="text-gray-400 hover:text-[#fff] hover:scale-125 transition duration-300 ease-in-out"
         />
         <SocialIcon
           url="https://www.instagram.com/elvocool/"
           fgColor="currentColor"
           bgColor="transparent"
+          target="_blank"
           className="text-gray-400 hover:text-[#fff] hover:scale-125 transition duration-300 ease-in-out"
         />
         <SocialIcon
           url="https://twitter.com/Elvocool"
           fgColor="currentColor"
           bgColor="transparent"
+          target="_blank"
           className="text-gray-400 hover:text-[#fff] hover:scale-125 transition duration-300 ease-in-out"
         />
         <SocialIcon
           url="https://www.linkedin.com/in/elvis-mutinda/"
           fgColor="currentColor"
           bgColor="transparent"
+          target="_blank"
           className="text-gray-400 hover:text-[#fff] hover:scale-125 transition duration-300 ease-in-out"
         />
         <SocialIcon
           url="https://codepen.io/elvocool"
           fgColor="currentColor"
           bgColor="transparent"
+          target="_blank"
           className="text-gray-400 hover:text-[#fff] hover:scale-125 transition duration-300 ease-in-out"
         />
       </motion.div>
