@@ -58,7 +58,7 @@ function ExperienceTest({}: Props) {
                 : "border-2 hover:border-gray-700 text-gray-700"
             } border-2 bg-transparent hover:bg-[#112240] py-3 text-sm cursor-pointer duration-300 px-8 font-medium`}
           >
-            Amazon
+            Amazon test
           </li>
           <li
             onClick={handleGoogle}
@@ -68,7 +68,7 @@ function ExperienceTest({}: Props) {
                 : "border-2 hover:border-gray-700 text-gray-700"
             } border-2 bg-transparent hover:bg-[#112240] py-3 text-sm cursor-pointer duration-300 px-8 font-medium`}
           >
-            Google
+            Google test
           </li>
         </ul>
       </div>
