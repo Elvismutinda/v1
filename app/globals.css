@@ -2,26 +2,18 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 214, 219, 220;
-  --background-end-rgb: 255, 255, 255;
-}
+@layer components {
+    .heroButton {
+        @apply relative bg-transparent mt-10 px-6 py-2 rounded-full uppercase text-sm tracking-widest text-gray-500 transition-all hover:text-[#64ffda]
+        before:content-none before:absolute before:bottom-0 before:left-0 before:w-0 before:h-2 before:bg-[#64ffda];
+    }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --foreground-rgb: 255, 255, 255;
-    --background-start-rgb: 0, 0, 0;
-    --background-end-rgb: 0, 0, 0;
-  }
-}
+    .heroButton::before {
+        content: '';
+        @apply absolute bottom-0 left-0 w-0 h-1 bg-[#64ffda] transition-all duration-300 ease-in-out;
+    }
 
-body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+    .heroButton:hover::before {
+        @apply w-full;
+    }
 }
