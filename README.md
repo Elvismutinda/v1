@@ -40,7 +40,7 @@ This is my personal portfolio built with Next.js
    Or if you're using yarn:
 
    ```
-   yarn run dev
+   yarn dev
    ```
 The app will then be accessed in your browser on `http://localhost:3000`
 
