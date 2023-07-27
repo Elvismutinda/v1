@@ -32,11 +32,11 @@ function ExperienceTest({}: Props) {
 
   return (
     <motion.div className="w-full md:h-screen p-2 flex items-center py-16">
-      <div className="max-w-[1240px] m-auto md:grid grid-cols-3 gap-8">
+      <div className="max-w-[1240px] m-auto  gap-8">
         <h3 className="uppercase tracking-widest text-gray-500 text-4xl">
           Work Experience
         </h3>
-        <div className="h-screen items-center justify-center md:h-screen mt-10 flex flex-row overflow-hidden">
+        <div className="items-center justify-center mt-10 flex flex-row overflow-hidden">
           <div>
             <ul className="md:w-32 flex flex-col">
               <li
