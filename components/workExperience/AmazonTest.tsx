@@ -16,7 +16,7 @@ function AmazonTest({}: Props) {
       transition={{
         delay: 0.1,
       }}
-      className="w-full"
+      className="w-full h-full -mt-10"
     >
       <h3 className="flex gap-1 font-medium text-xl font-titleFont">
         Software Engineer Intern <span className="text-[#64ffda]">@</span>{" "} <span className="text-[#64ffda]">AmazonTest Consulting Limited</span>
