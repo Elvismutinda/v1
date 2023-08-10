@@ -2,7 +2,8 @@
 
 This is my personal portfolio built with Next.js
 
-### The portfolio is still in development!!!
+> **Note**
+> This portfolio is still a work in progress!!!
 
 ## How To Run the App
 
