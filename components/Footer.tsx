@@ -22,7 +22,7 @@ export default function Footer() {
         </a>
         ,{" "}
         <a
-          href=""
+          href="https://typescriptlang.org/"
           className="font-bold text-slate-400 hover:text-teal-300 focus-visible:text-teal-300"
           target="_blank"
         >
