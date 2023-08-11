@@ -1,6 +1,6 @@
 import About from "@/components/About";
 import Contact from "@/components/Contact";
-import Experience from "@/components/Experience";
+import Experiences from "@/components/Experiences";
 import Hero from "@/components/Hero";
 import Projects from "@/components/Projects";
 
@@ -10,7 +10,7 @@ const Home = () => {
       <Hero />
       <About />
       <Projects />
-      <Experience />
+      <Experiences />
       <Contact />
     </main>
   );
