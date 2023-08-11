@@ -20,7 +20,22 @@ export default function Experience({
   const { ref } = useSectionInView("Experience");
 
   return (
-    <motion.div ref={ref} className="mb-3 sm:mb-8">
+    <motion.div
+      ref={ref}
+      className="mb-3 sm:mb-8"
+      initial={{
+        opacity: 0,
+      }}
+      whileInView={{
+        opacity: 1,
+      }}
+      transition={{
+        duration: 1,
+      }}
+      viewport={{
+        once: true,
+      }}
+    >
       {experiencesData.map((experience, index) => (
         <React.Fragment key={index}>
           <motion.div className="max-w-[42rem]">
