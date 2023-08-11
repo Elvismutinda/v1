@@ -32,8 +32,11 @@ export const experiencesData = [
       "Collaborated with other skilled software developers on digital health projects to create systems and websites for health organizations in the world.",
     techs: ["React", "SCSS", "JavaScript", "Laravel"],
     date: "2023 - Present",
-    linkName: ["OpenMRS", "PMI Kinga Malaria", "CCIS"],
-    links: ["https://openmrs.org/", "https://github.com/IntelliSOFT-Consulting/pmi-kinga-malaria", "https://github.com/IntelliSOFT-Consulting/ccis-dashboard"],
+    linkName: ["OpenMRS", "PMI Kinga Malaria"],
+    links: [
+      "https://openmrs.org/",
+      "https://github.com/IntelliSOFT-Consulting/pmi-kinga-malaria",
+    ],
   },
 ] as const;
 
