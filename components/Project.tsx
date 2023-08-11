@@ -42,12 +42,13 @@ export default function Project({
               <li
                 className="text-teal-300 bg-teal-400/10 px-3 py-1 text-[0.7rem] tracking-wider rounded-full"
                 key={index}
+                aria-label="Technologies used"
               >
                 {tag}
               </li>
             ))}
           </ul>
-          <div className="mt-8 flex gap-6">
+          <div className="mt-8 flex gap-6" aria-label="Related links">
             <a
               href={githubUrl}
               target="_blank"
