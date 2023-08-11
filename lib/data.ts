@@ -53,7 +53,7 @@ export const projectsData = [
   {
     title: "Digital O.B",
     description:
-      "A web application that digitizes the operations of the O.B found in police station.",
+      "A web application that digitizes the operations of the O.B found in police stations.",
     tags: ["PHP", "HTML", "CSS", "MariaDB", "JavaScript"],
     imageUrl: digitalobImg,
     githubUrl: "https://github.com/Elvismutinda/Digital_OB-Project",
