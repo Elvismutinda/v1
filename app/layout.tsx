@@ -27,7 +27,7 @@ export default function RootLayout({
           {children}
           <Footer />
 
-          <Toaster position="top-right" />
+          <Toaster position="bottom-right" />
         </ActiveSectionContextProvider>
       </body>
     </html>
