@@ -44,7 +44,15 @@ export default function Footer() {
         >
           Framer Motion
         </a>
-        , deployed with{" "}
+        , emails using{" "}
+        <a
+          href="https://resend.com/"
+          className="font-bold text-slate-400 hover:text-teal-300 focus-visible:text-teal-300"
+          target="_blank"
+        >
+          Resend
+        </a>{" "}
+        and deployed with{" "}
         <a
           href="https://vercel.com/"
           className="font-bold text-slate-400 hover:text-teal-300 focus-visible:text-teal-300"
