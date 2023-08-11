@@ -2,12 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
-html {
-  --line-color: #e5e7eb;
-}
-
-html.dark {
-  --line-color: rgba(255, 255, 255, 0.2);
+::selection {
+  background-color: #233554;
+  color: #ccd6f6;
 }
 
 .borderBlack {
