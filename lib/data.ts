@@ -1,5 +1,3 @@
-import React from "react";
-import { FaReact } from "react-icons/fa";
 import cshavenImg from "@/public/cshaven.png";
 import digitalobImg from "@/public/digitalob.png";
 
@@ -31,9 +29,11 @@ export const experiencesData = [
     org: "IntelliSOFT Consulting Limited",
     title: "Software Engineer",
     description:
-      "Collaborated with other skilled software developers on digital health projects to create systems and websites for health organizations.",
-    icon: React.createElement(FaReact),
+      "Collaborated with other skilled software developers on digital health projects to create systems and websites for health organizations in the world.",
+    techs: ["React", "SCSS", "JavaScript", "Laravel"],
     date: "2023 - Present",
+    linkName: ["OpenMRS", "PMI Kinga Malaria", "CCIS"],
+    links: ["https://openmrs.org/", "https://github.com/IntelliSOFT-Consulting/pmi-kinga-malaria", "https://github.com/IntelliSOFT-Consulting/ccis-dashboard"],
   },
 ] as const;
 
