@@ -30,7 +30,7 @@ export const experiencesData = [
     title: "Software Engineer",
     description:
       "Collaborated with other skilled software developers on digital health projects to create systems and websites for health organizations in the world.",
-    techs: ["React", "SCSS", "JavaScript", "Laravel"],
+    techs: ["Java", "React", "SCSS", "JavaScript", "Laravel"],
     date: "2023 - Present",
     linkName: ["OpenMRS", "PMI Kinga Malaria"],
     links: [
