@@ -3,7 +3,7 @@
 This is my personal portfolio built with Next.js
 
 > **Note**
-> Can you use this code for your own website? **Yes, with attribution**.<br>
+> 'Can you use this code for your own website?' **Yes, with attribution**.<br>
 > I put in a lot of effort in building this site so kindly give me credit if you happen to use it.
 
 ## How To Run the App
