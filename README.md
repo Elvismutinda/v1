@@ -38,10 +38,7 @@ The app will then be accessed in your browser on `http://localhost:3000`
 
 Documentation for some of the packages used:
 
-[Framer Motion](https://www.framer.com/motion/introduction/)
-
-[React-icons](https://react-icons.github.io/react-icons/)
-
-[React-hot-toast](https://react-hot-toast.com/)
-
-[clsx](https://github.com/lukeed/clsx#readme)
+1. [Framer Motion](https://www.framer.com/motion/introduction/)
+2. [React-icons](https://react-icons.github.io/react-icons/)
+3. [React-hot-toast](https://react-hot-toast.com/)
+4. [clsx](https://github.com/lukeed/clsx#readme)
