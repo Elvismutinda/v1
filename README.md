@@ -36,7 +36,12 @@ This is my personal portfolio built with Next.js
    ```
 The app will then be accessed in your browser on `http://localhost:3000`
 
-To get the documentation for some of the packages, you could visit the following sites:
-https://www.npmjs.com/package/react-social-icons
+Documentation for some of the packages used:
 
-https://www.framer.com/motion/introduction/
+[Framer Motion](https://www.framer.com/motion/introduction/)
+
+[React-icons](https://react-icons.github.io/react-icons/)
+
+[React-hot-toast](https://react-hot-toast.com/)
+
+[clsx](https://github.com/lukeed/clsx#readme)
