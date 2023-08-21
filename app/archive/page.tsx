@@ -10,7 +10,7 @@ import Footer from "@/components/Footer";
 export default function ArchivePage() {
   return (
     <motion.div
-      className="mx-auto min-h-screen max-w-screen-xl px-6 py-12 font-sans md:px-12 md:py-20 lg:px-24 lg:py-0 sm:pt-0"
+      className="mx-auto min-h-screen max-w-screen-xl px-6 !py-12 font-sans md:px-12 md:py-20 lg:px-24 lg:py-0"
       initial={{
         opacity: 0,
       }}
@@ -64,7 +64,6 @@ export default function ArchivePage() {
           </tbody>
         </table>
       </div>
-      <Footer />
     </motion.div>
   );
 }
