@@ -36,8 +36,11 @@ This is my personal portfolio built with Next.js
    ```
 The app will then be accessed in your browser on `http://localhost:3000`
 
+
 > Or you can view the deployed app using the link below:
+> 
 > [Elvis' portfolio](https://elvismutinda.vercel.app/)
+
 
 Documentation for some of the packages used:
 
