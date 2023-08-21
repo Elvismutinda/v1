@@ -1,4 +1,5 @@
 import { archiveData } from "@/lib/data";
+import { FaGithub } from "react-icons/fa";
 import { FiArrowUpRight } from "react-icons/fi";
 
 type ArchiveProjectProps = (typeof archiveData)[number];
@@ -72,11 +73,18 @@ export default function ArchiveProject({
                 rel="noreferrer"
                 aria-label={linkDisplay}
               >
-                <span>
-                  <span className="inline-block">
-                    {linkDisplay}
-                    <FiArrowUpRight className="ml-0.5 inline-block h-4 w-4 shrink-0 transition-transform group-hover/link:-translate-y-1 group-hover/link:translate-x-1 group-focus-visible/link:translate-x-1 group-focus-visible/link:-translate-y-1 motion-reduce:transition-none" />
-                  </span>
+                <span className="inline-block">
+                  {linkDisplay.toLowerCase() === "github" ? (
+                    <>
+                      {linkDisplay}{" "}
+                      <FaGithub className="inline-block ml-0.5 mb-0.5 h-3.5 w-3.5 shrink-0" />
+                    </>
+                  ) : (
+                    <>
+                      {linkDisplay}
+                      <FiArrowUpRight className="ml-0.5 inline-block h-4 w-4 shrink-0 transition-transform group-hover/link:-translate-y-1 group-hover/link:translate-x-1 group-focus-visible/link:translate-x-1 group-focus-visible/link:-translate-y-1 motion-reduce:transition-none" />
+                    </>
+                  )}
                 </span>
               </a>
             ) : null}

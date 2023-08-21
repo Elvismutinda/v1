@@ -65,10 +65,10 @@ export const archiveData = [
   {
     year: "2023",
     title: "CS Haven",
-    madeAt: "Personal Project",
-    builtWith: ["Next.js", "TypeScript", "MySQL", "Prisma", "Tailwind", "Zod"],
+    madeAt: "",
+    builtWith: ["Next.js", "TypeScript", "MySQL", "Prisma", "Tailwind"],
     link: "https://github.com/Elvismutinda/cs-haven",
-    linkDisplay: "In Development",
+    linkDisplay: "Github",
   },
   {
     year: "2023",
@@ -85,5 +85,13 @@ export const archiveData = [
     builtWith: ["PHP", "HTML", "CSS", "MariaDB", "JavaScript", "Chart.js"],
     link: "https://digital-ob.000webhostapp.com/",
     linkDisplay: "digital-ob.000webhostapp.com",
+  },
+  {
+    year: "2023",
+    title: "PMI Kinga Malaria Reports",
+    madeAt: "IntelliSOFT Consulting Limited",
+    builtWith: ["React", "Node.js", "MongoDB", "JavaScript"],
+    link: "https://github.com/IntelliSOFT-Consulting/pmi-kinga-malaria",
+    linkDisplay: "Github",
   },
 ] as const;
