@@ -7,6 +7,15 @@
   color: #ccd6f6;
 }
 
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #6B7280;
+  border-radius: 4px;
+}
+
 .borderBlack {
   @apply border border-black/10;
 }
