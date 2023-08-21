@@ -72,7 +72,7 @@ export const archiveData = [
   },
   {
     year: "2023",
-    title: "Personal Website v1",
+    title: "Personal Website V1",
     madeAt: "",
     builtWith: ["Next.js", "TypeScript", "Resend", "Tailwind"],
     link: "https://elvismutinda.vercel.app/",

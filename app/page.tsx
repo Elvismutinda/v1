@@ -8,7 +8,7 @@ import Projects from "@/components/Projects";
 
 const Home = () => {
   return (
-    <main className="flex flex-col items-center px-4">
+    <main className="flex flex-col items-center px-4 pt-28 sm:pt-36">
       <Header />
       <Hero />
       <About />
