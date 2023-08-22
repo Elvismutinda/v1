@@ -48,7 +48,7 @@ export const projectsData = [
     tags: ["Next.js", "TypeScript", "MySQL", "Prisma", "Tailwind"],
     imageUrl: cshavenImg,
     githubUrl: "https://github.com/Elvismutinda/cs-haven",
-    liveUrl: "",
+    liveUrl: "https://cshaven.vercel.app/",
   },
   {
     title: "Digital O.B",
@@ -75,8 +75,8 @@ export const archiveData = [
     title: "CS Haven",
     madeAt: "",
     builtWith: ["Next.js", "TypeScript", "MySQL", "Prisma", "Tailwind"],
-    link: "https://github.com/Elvismutinda/cs-haven",
-    linkDisplay: "Github",
+    link: "https://cshaven.vercel.app/",
+    linkDisplay: "cshaven.vercel.app",
   },
   {
     year: "2023",
