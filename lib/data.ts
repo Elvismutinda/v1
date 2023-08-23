@@ -64,6 +64,14 @@ export const projectsData = [
 export const archiveData = [
   {
     year: "2023",
+    title: "Digital O.B V2",
+    madeAt: "",
+    builtWith: ["Next.js", "TypeScript", "MongoDB", "Prisma", "Tailwind"],
+    link: "https://github.com/Elvismutinda/Digital-OB-v2",
+    linkDisplay: "Github",
+  },
+  {
+    year: "2023",
     title: "PMI Kinga Malaria Reports",
     madeAt: "IntelliSOFT Consulting Limited",
     builtWith: ["React", "Node.js", "MongoDB", "JavaScript"],
