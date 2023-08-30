@@ -44,11 +44,12 @@ export default function About() {
         feeling of finally figuring out a solution to a problem. <br /> <br />
         My core stack is{" "}
         <span className="font-medium text-slate-200">
-          React, Next.js, Laravel, and MySQL
-        </span>
-        . I am also familiar with{" "}
-        <span className="font-medium text-white">TypeScript</span> and{" "}
-        <span className="font-medium text-white">Prisma</span>. I am always
+          React, Next.js, Laravel,
+        </span>{" "}
+        and <span className="font-medium text-slate-200">MySQL</span>. I am also
+        familiar with{" "}
+        <span className="font-medium text-slate-200">TypeScript</span> and{" "}
+        <span className="font-medium text-slate-200">Prisma</span>. I am always
         looking forward to learning new technologies.
       </p>
 
