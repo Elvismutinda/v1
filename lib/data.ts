@@ -32,10 +32,11 @@ export const experiencesData = [
       "Collaborated with other skilled software developers on digital health projects to build systems for health organizations in the world.",
     techs: ["Java", "React", "SCSS", "JavaScript", "Laravel"],
     date: "2023 - Present",
-    linkName: ["OpenMRS", "PMI Kinga Malaria"],
+    linkName: ["OpenMRS", "PMI Kinga Malaria", "Bahmni Helium Health"],
     links: [
       "https://openmrs.org/",
       "https://github.com/IntelliSOFT-Consulting/pmi-kinga-malaria",
+      "https://heliumhealthdemo.intellisoftkenya.com/"
     ],
   },
 ] as const;
@@ -62,6 +63,14 @@ export const projectsData = [
 ] as const;
 
 export const archiveData = [
+  {
+    year: "2023",
+    title: "Bahmni Helium Health",
+    madeAt: "IntelliSOFT Consulting Limited",
+    builtWith: ["Java"],
+    link: "https://heliumhealthdemo.intellisoftkenya.com/",
+    linkDisplay: "Helium Health Demo",
+  },
   {
     year: "2023",
     title: "Digital O.B V2",
