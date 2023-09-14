@@ -36,7 +36,7 @@ export const experiencesData = [
     links: [
       "https://openmrs.org/",
       "https://github.com/IntelliSOFT-Consulting/pmi-kinga-malaria",
-      "https://heliumhealthdemo.intellisoftkenya.com/"
+      "https://heliumhealthdemo.intellisoftkenya.com/",
     ],
   },
 ] as const;
@@ -75,7 +75,15 @@ export const archiveData = [
     year: "2023",
     title: "Digital O.B V2",
     madeAt: "",
-    builtWith: ["Next.js", "TypeScript", "Postgresql", "Prisma", "Tailwind", "Antd", "Shadcn/ui"],
+    builtWith: [
+      "Next.js",
+      "TypeScript",
+      "Postgresql",
+      "Prisma",
+      "Tailwind",
+      "Antd",
+      "Shadcn/ui",
+    ],
     link: "https://github.com/Elvismutinda/Digital-OB-v2",
     linkDisplay: "Github",
   },
@@ -83,7 +91,7 @@ export const archiveData = [
     year: "2023",
     title: "PMI Kinga Malaria Reports",
     madeAt: "IntelliSOFT Consulting Limited",
-    builtWith: ["MongoDB", "Express.js", "React", "Node.js"],
+    builtWith: ["MongoDB", "Express.js", "React", "Node.js", "SCSS", "Antd"],
     link: "https://github.com/IntelliSOFT-Consulting/pmi-kinga-malaria",
     linkDisplay: "Github",
   },
