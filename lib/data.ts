@@ -83,7 +83,7 @@ export const archiveData = [
     year: "2023",
     title: "PMI Kinga Malaria Reports",
     madeAt: "IntelliSOFT Consulting Limited",
-    builtWith: ["React", "Node.js", "Express.js", "MongoDB", "JavaScript"],
+    builtWith: ["MongoDB", "Express.js", "React", "Node.js"],
     link: "https://github.com/IntelliSOFT-Consulting/pmi-kinga-malaria",
     linkDisplay: "Github",
   },
