@@ -31,7 +31,7 @@ export const experiencesData = [
     description:
       "Collaborated with other skilled software developers on digital health projects to build systems for health organizations in the world.",
     techs: ["Java", "React", "SCSS", "JavaScript", "Laravel"],
-    date: "2023 - Present",
+    date: "JUL 2023 - OCT 2023",
     linkName: ["OpenMRS", "PMI Kinga Malaria", "Bahmni Helium Health"],
     links: [
       "https://openmrs.org/",
