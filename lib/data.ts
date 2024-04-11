@@ -44,7 +44,7 @@ export const experiencesData = [
     title: "Software Developer",
     description:
       "Working on a health care solution that integrates different health care services into one platform.",
-    techs: ["React Native", "Next.js", "TypeScript"],
+    techs: ["React Native", "Next.js", "TypeScript", "Tailwind"],
     date: "MAR 2024 - PRESENT",
     linkName: [],
     links: [],
