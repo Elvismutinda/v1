@@ -76,7 +76,7 @@ export default function Intro() {
 
         <a
           className="group bg-gray-900 px-7 py-3 flex items-center gap-2 rounded-full outline-none focus:scale-105 hover:scale-105 active:scale-105 transition cursor-pointer"
-          href="/Elvis Mutinda CV.pdf"
+          href="/ELVIS MUTINDA CV.pdf"
           download
         >
           Download CV{" "}
