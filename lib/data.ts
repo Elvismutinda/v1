@@ -40,7 +40,7 @@ export const experiencesData = [
     ],
   },
   {
-    org: "Almi Group",
+    org: "E-novation Centre",
     title: "Software Developer",
     description:
       "Working on a health care solution that integrates different health care services into one platform.",
