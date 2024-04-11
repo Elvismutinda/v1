@@ -19,7 +19,7 @@ export default function Experiences() {
         ))}
         <div className="mt-12">
           <a
-            href="/Elvis Mutinda CV.pdf"
+            href="/ELVIS MUTINDA CV.pdf"
             download
             className="text-slate-200 inline-flex items-center leading-tight font-semibold group"
           >
