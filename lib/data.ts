@@ -39,6 +39,16 @@ export const experiencesData = [
       "https://heliumhealthdemo.intellisoftkenya.com/",
     ],
   },
+  {
+    org: "Almi Group",
+    title: "Software Developer",
+    description:
+      "Working on a health care solution that integrates different health care services into one platform.",
+    techs: ["React Native", "Next.js", "TypeScript"],
+    date: "MAR 2024 - PRESENT",
+    linkName: [],
+    links: [],
+  },
 ] as const;
 
 export const projectsData = [
