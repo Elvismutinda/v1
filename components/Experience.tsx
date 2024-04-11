@@ -16,6 +16,7 @@ export default function Experience({
   techs,
   date,
   links,
+  linkName,
 }: ExperienceProps) {
   const { ref } = useSectionInView("Experience");
 
@@ -36,8 +37,6 @@ export default function Experience({
         once: true,
       }}
     >
-      {experiencesData.map((experience, index) => (
-        <React.Fragment key={index}>
           <motion.div className="max-w-[42rem]">
             <ol className="group/list">
               <li className="mb-12">
@@ -80,7 +79,7 @@ export default function Experience({
                             rel="noreferrer"
                           >
                             <FaLink className="mr-1 h-3 w-3" />
-                            {experience.linkName[index]}
+                            {linkName[index]}
                           </a>
                         </li>
                       ))}
@@ -103,8 +102,6 @@ export default function Experience({
               </li>
             </ol>
           </motion.div>
-        </React.Fragment>
-      ))}
     </motion.div>
   );
 }

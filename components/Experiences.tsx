@@ -15,9 +15,7 @@ export default function Experiences() {
       <SectionHeading>Experiences</SectionHeading>
       <div>
         {experiencesData.map((experience, index) => (
-          <React.Fragment key={index}>
-            <Experience {...experience} />
-          </React.Fragment>
+            <Experience key={index} {...experience} />
         ))}
         <div className="mt-12">
           <a
