@@ -26,6 +26,16 @@ export const links = [
 
 export const experiencesData = [
   {
+    org: "E-novation Centre",
+    title: "Software Developer",
+    description:
+      "Worked on a health care solution that integrates different health care services into one platform.",
+    techs: ["React Native", "Next.js", "TypeScript", "Tailwind"],
+    date: "MAR 2024 - JUN 2024",
+    linkName: [],
+    links: [],
+  },
+  {
     org: "IntelliSOFT Consulting Limited",
     title: "Software Engineer",
     description:
@@ -39,16 +49,6 @@ export const experiencesData = [
       "https://heliumhealthdemo.intellisoftkenya.com/",
     ],
   },
-  {
-    org: "E-novation Centre",
-    title: "Software Developer",
-    description:
-      "Working on a health care solution that integrates different health care services into one platform.",
-    techs: ["React Native", "Next.js", "TypeScript", "Tailwind"],
-    date: "MAR 2024 - PRESENT",
-    linkName: [],
-    links: [],
-  },
 ] as const;
 
 export const projectsData = [
@@ -56,7 +56,7 @@ export const projectsData = [
     title: "CS Haven",
     description:
       "A web application for students to share their projects and carry out discussions.",
-    tags: ["Next.js", "TypeScript", "MySQL", "Prisma", "Tailwind"],
+    tags: ["Next.js", "TypeScript", "PostgreSQL", "Prisma", "Tailwind"],
     imageUrl: cshavenImg,
     githubUrl: "https://github.com/Elvismutinda/cs-haven",
     liveUrl: "https://cshaven.vercel.app/",
@@ -65,7 +65,7 @@ export const projectsData = [
     title: "Digital O.B",
     description:
       "A web application that digitizes the operations of the O.B found in police stations.",
-    tags: ["PHP", "HTML", "CSS", "MariaDB", "JavaScript", "Chart.js"],
+    tags: ["PHP", "HTML", "CSS", "MySQL", "JavaScript", "Chart.js"],
     imageUrl: digitalobImg,
     githubUrl: "https://github.com/Elvismutinda/Digital_OB-Project",
     liveUrl: "https://digital-ob.000webhostapp.com/",
