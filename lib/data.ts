@@ -74,6 +74,14 @@ export const projectsData = [
 
 export const archiveData = [
   {
+    year: "2024",
+    title: "Dr. Mordi",
+    madeAt: "E-novation Centre",
+    builtWith: ["React Native", "TypeScript", "TailwindCSS"],
+    link: "",
+    linkDisplay: "",
+  },
+  {
     year: "2023",
     title: "Bahmni Helium Health",
     madeAt: "IntelliSOFT Consulting Limited",
