@@ -75,11 +75,19 @@ export const projectsData = [
 export const archiveData = [
   {
     year: "2024",
+    title: "CarePulse",
+    madeAt: "",
+    builtWith: ["Next.js", "TypeScript", "TailwindCSS", "Twilio"],
+    link: "",
+    linkDisplay: "Under development",
+  },
+  {
+    year: "2024",
     title: "Dr. Mordi",
     madeAt: "E-novation Centre",
     builtWith: ["React Native", "TypeScript", "TailwindCSS"],
     link: "",
-    linkDisplay: "",
+    linkDisplay: "Under development",
   },
   {
     year: "2023",
