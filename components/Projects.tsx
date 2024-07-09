@@ -26,7 +26,7 @@ export default function Projects() {
             className="text-slate-200 inline-flex items-center leading-tight font-semibold group"
           >
             <span className="border-b border-transparent pb-px transition group-hover:border-teal-300 motion-reduce:transition-none">
-              View All Projects
+              View Full Project Archive
             </span>
             <span className="whitespace-nowrap">
               <FiArrowRight className="ml-1 inline-block h-4 w-4 shrink-0 -translate-y-px transition-transform group-hover:translate-x-1 group-focus-visible:translate-x-1 motion-reduce:transition-none" />
