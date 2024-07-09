@@ -112,7 +112,7 @@ export default function Intro() {
             <FaLinkedin />
           </a>
         </li>
-        <li className="mr-5">
+        {/* <li className="mr-5">
           <a
             className="block text-slate-400 text-[1.75rem] focus:scale-[1.15] hover:scale-[1.15] hover:text-slate-200 active:scale-105 transition cursor-pointer"
             href="https://twitter.com/Elvocool/"
@@ -121,7 +121,7 @@ export default function Intro() {
           >
             <FaTwitter />
           </a>
-        </li>
+        </li> */}
       </motion.ul>
     </section>
   );
