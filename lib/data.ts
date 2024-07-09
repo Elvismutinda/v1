@@ -30,7 +30,7 @@ export const experiencesData = [
     title: "Software Developer",
     description:
       "Worked on a health care solution that integrates different health care services into one platform.",
-    techs: ["React Native", "Next.js", "TypeScript", "Tailwind"],
+    techs: ["React Native", "Next.js", "TypeScript", "TailwindCSS"],
     date: "MAR 2024 - JUN 2024",
     linkName: [],
     links: [],
@@ -40,7 +40,7 @@ export const experiencesData = [
     title: "Software Engineer",
     description:
       "Collaborated with other skilled software developers on digital health projects to build systems for health organizations in the world.",
-    techs: ["Java", "React", "SCSS", "JavaScript", "Laravel"],
+    techs: ["Java", "React", "Angular.js", "SCSS", "JavaScript", "Laravel"],
     date: "JUL 2023 - OCT 2023",
     linkName: ["OpenMRS", "PMI Kinga Malaria", "Bahmni Helium Health"],
     links: [
@@ -56,7 +56,7 @@ export const projectsData = [
     title: "CS Haven",
     description:
       "A web application for students to share their projects and carry out discussions.",
-    tags: ["Next.js", "TypeScript", "PostgreSQL", "Prisma", "Tailwind"],
+    tags: ["Next.js", "TypeScript", "PostgreSQL", "Prisma", "TailwindCSS"],
     imageUrl: cshavenImg,
     githubUrl: "https://github.com/Elvismutinda/cs-haven",
     liveUrl: "https://cshaven.vercel.app/",
