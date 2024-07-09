@@ -79,7 +79,7 @@ export const archiveData = [
     madeAt: "",
     builtWith: ["Next.js", "TypeScript", "TailwindCSS", "Twilio"],
     link: "",
-    linkDisplay: "Under development",
+    linkDisplay: "",
   },
   {
     year: "2024",
@@ -87,7 +87,7 @@ export const archiveData = [
     madeAt: "E-novation Centre",
     builtWith: ["React Native", "TypeScript", "TailwindCSS"],
     link: "",
-    linkDisplay: "Under development",
+    linkDisplay: "",
   },
   {
     year: "2023",
@@ -115,9 +115,9 @@ export const archiveData = [
   },
   {
     year: "2023",
-    title: "PMI Kinga Malaria Reports",
+    title: "PMI Kinga Malaria",
     madeAt: "IntelliSOFT Consulting Limited",
-    builtWith: ["MongoDB", "Express.js", "React", "Node.js", "SCSS"],
+    builtWith: ["React", "Node.js", "Express.js", "MongoDB", "SCSS"],
     link: "https://github.com/IntelliSOFT-Consulting/pmi-kinga-malaria",
     linkDisplay: "Github",
   },
