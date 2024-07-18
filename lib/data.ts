@@ -26,6 +26,16 @@ export const links = [
 
 export const experiencesData = [
   {
+    org: "Afrib AI",
+    title: "Fullstack Developer",
+    description: "Building AI solutions",
+    techs: ["React", "React Native", "Django", "Python", "TailwindCSS"],
+    date: "JUL 2024 - PRESENT",
+    linkName: [],
+    link: [],
+    site: "https://afrib.ai/",
+  },
+  {
     org: "E-novation Centre",
     title: "Software Developer",
     description:
@@ -34,6 +44,7 @@ export const experiencesData = [
     date: "MAR 2024 - JUN 2024",
     linkName: [],
     links: [],
+    site: "",
   },
   {
     org: "IntelliSOFT Consulting Limited",
@@ -48,6 +59,7 @@ export const experiencesData = [
       "https://github.com/IntelliSOFT-Consulting/pmi-kinga-malaria",
       "https://heliumhealthdemo.intellisoftkenya.com/",
     ],
+    site: "https://intellisoftkenya.com/",
   },
 ] as const;
 

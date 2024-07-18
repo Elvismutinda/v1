@@ -17,6 +17,7 @@ export default function Experience({
   date,
   links,
   linkName,
+  site,
 }: ExperienceProps) {
   const { ref } = useSectionInView("Experience");
 
@@ -50,7 +51,7 @@ export default function Experience({
                       <div>
                         <a
                           className="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300  group/link text-base"
-                          href="https://intellisoftkenya.com/"
+                          href={site}
                           target="_blank"
                           rel="noreferrer"
                         >
