@@ -31,8 +31,8 @@ export const experiencesData = [
     description: "Building AI solutions",
     techs: ["React", "React Native", "Django", "Python", "TailwindCSS"],
     date: "JUL 2024 - PRESENT",
-    linkName: [],
-    link: [],
+    linkName: ["SEAL TM1"],
+    link: ["https://afrib.ai/portfolio/sealtm1/"],
     site: "https://afrib.ai/",
   },
   {
@@ -42,8 +42,8 @@ export const experiencesData = [
       "Worked on a health care solution that integrates different health care services into one platform.",
     techs: ["React Native", "Next.js", "TypeScript", "TailwindCSS"],
     date: "MAR 2024 - JUN 2024",
-    linkName: [],
-    links: [],
+    linkName: ["Dr. Mordi Mobile"],
+    links: ["https://github.com/almigroup/dr-mordi-mobile"],
     site: "",
   },
   {
