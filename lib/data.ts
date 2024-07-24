@@ -1,5 +1,6 @@
 import cshavenImg from "@/public/cshaven.png";
 import digitalobImg from "@/public/digitalob.png";
+import careplusImg from "@/public/careplus.png";
 
 export const links = [
   {
@@ -65,6 +66,15 @@ export const experiencesData = [
 
 export const projectsData = [
   {
+    title: "CarePulse",
+    description:
+      "A web application that helps patients book appointments with doctors.",
+    tags: ["Next.js", "TypeScript", "TailwindCSS", "Twilio"],
+    imageUrl: careplusImg,
+    githubUrl: "https://github.com/Elvismutinda/care-plus",
+    liveUrl: "https://healthcareapp-elvismutindas-projects.vercel.app/",
+  },
+  {
     title: "CS Haven",
     description:
       "A web application for students to share their projects and carry out discussions.",
@@ -90,8 +100,8 @@ export const archiveData = [
     title: "CarePulse",
     madeAt: "",
     builtWith: ["Next.js", "TypeScript", "TailwindCSS", "Twilio"],
-    link: "",
-    linkDisplay: "",
+    link: "https://healthcareapp-elvismutindas-projects.vercel.app/",
+    linkDisplay: "CarePulse",
   },
   {
     year: "2024",
