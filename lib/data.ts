@@ -31,14 +31,14 @@ export const experiencesData = [
     title: "Fullstack Developer",
     description: "Building AI solutions",
     techs: ["React", "React Native", "Django", "Python", "TailwindCSS"],
-    date: "JUL 2024 - PRESENT",
+    date: "JUL 2024 - Oct 2024",
     linkName: [],
     links: [],
     site: "https://afrib.ai/",
   },
   {
-    org: "E-novation Centre",
-    title: "Software Developer",
+    org: "Almi Group",
+    title: "Frontend Developer",
     description:
       "Worked on a health care solution that integrates different health care services into one platform.",
     techs: ["React Native", "Next.js", "TypeScript", "TailwindCSS"],
@@ -97,11 +97,11 @@ export const projectsData = [
 export const archiveData = [
   {
     year: "2024",
-    title: "Wakili",
+    title: "CourtBuddy",
     madeAt: "Afrib AI",
     builtWith: ["Python"],
-    link: "",
-    linkDisplay: "",
+    link: "https://courtbuddy.ai/",
+    linkDisplay: "CourtBuddy",
   },
   {
     year: "2024",
