@@ -29,11 +29,12 @@ export const experiencesData = [
   {
     org: "Afrib AI",
     title: "Fullstack Developer",
-    description: "Building AI solutions",
-    techs: ["React", "React Native", "Django", "Python", "TailwindCSS"],
+    description:
+      "Worked on an ERP system using Odoo. Implemented a legal AI solution for legal practitioners.",
+    techs: ["React", "Django", "Python", "Odoo"],
     date: "JUL 2024 - Oct 2024",
-    linkName: [],
-    links: [],
+    linkName: ["CourtBuddy"],
+    links: ["https://courtbuddy.ai/"],
     site: "https://afrib.ai/",
   },
   {
