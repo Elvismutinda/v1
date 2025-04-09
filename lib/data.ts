@@ -28,7 +28,7 @@ export const links = [
 export const experiencesData = [
   {
     org: "Afrib AI",
-    title: "Fullstack Developer",
+    title: "Fullstack Engineer",
     description:
       "Worked on an ERP system using Odoo. Implemented a legal AI solution for legal practitioners.",
     techs: ["React", "Django", "Python", "Odoo"],
@@ -43,7 +43,7 @@ export const experiencesData = [
     description:
       "Worked on a health care solution that integrates different health care services into one platform.",
     techs: ["React Native", "Next.js", "TypeScript", "TailwindCSS"],
-    date: "MAR 2024 - PRESENT",
+    date: "MAR 2024 - JUNE 2024",
     linkName: [],
     links: [],
     site: "",
