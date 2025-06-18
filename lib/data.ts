@@ -115,6 +115,22 @@ export const projectsData = [
 
 export const archiveData = [
   {
+    year: "2025",
+    title: "Intelaw",
+    madeAt: "",
+    builtWith: [
+      "Next.js",
+      "TypeScript",
+      "TailwindCSS",
+      "PostgreSQL",
+      "PGVector",
+      "Drizzle ORM",
+      "Hugging Face",
+    ],
+    link: "https://intelaw.vercel.app/",
+    linkDisplay: "Intelaw",
+  },
+  {
     year: "2024",
     title: "CourtBuddy",
     madeAt: "Afrib AI",
