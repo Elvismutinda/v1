@@ -1,6 +1,7 @@
 import cshavenImg from "@/public/cshaven.png";
 import digitalobImg from "@/public/digitalob.png";
 import careplusImg from "@/public/careplus.png";
+import intelawImg from "@/public/intelaw.png";
 
 export const links = [
   {
@@ -66,6 +67,23 @@ export const experiencesData = [
 ] as const;
 
 export const projectsData = [
+  {
+    title: "Intelaw",
+    description:
+      "A legal research tool that helps legal practitioners in their legal research as well as the general public in gaining legal knowledge.",
+    tage: [
+      "Next.js",
+      "TypeScript",
+      "TailwindCSS",
+      "PostgreSQL",
+      "PGVector",
+      "Drizzle ORM",
+      "Hugging Face",
+    ],
+    imageUrl: intelawImg,
+    githubUrl: "https://github.com/Elvismutinda/intelaw",
+    liveUrl: "https://intelaw.vercel.app/",
+  },
   {
     title: "CarePulse",
     description:
