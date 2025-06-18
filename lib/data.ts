@@ -117,7 +117,7 @@ export const archiveData = [
   {
     year: "2025",
     title: "Intelaw",
-    madeAt: "",
+    madeAt: "University of Nairobi",
     builtWith: [
       "Next.js",
       "TypeScript",
