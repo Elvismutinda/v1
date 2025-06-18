@@ -71,7 +71,7 @@ export const projectsData = [
     title: "Intelaw",
     description:
       "A legal research tool that helps legal practitioners in their legal research as well as the general public in gaining legal knowledge.",
-    tage: [
+    tags: [
       "Next.js",
       "TypeScript",
       "TailwindCSS",
