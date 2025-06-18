@@ -93,15 +93,15 @@ export const projectsData = [
     githubUrl: "https://github.com/Elvismutinda/care-plus",
     liveUrl: "https://healthcareapp-elvismutindas-projects.vercel.app/",
   },
-  {
-    title: "CS Haven",
-    description:
-      "A web application for students to share their projects and carry out discussions.",
-    tags: ["Next.js", "TypeScript", "PostgreSQL", "Prisma", "TailwindCSS"],
-    imageUrl: cshavenImg,
-    githubUrl: "https://github.com/Elvismutinda/cs-haven",
-    liveUrl: "https://cshaven.vercel.app/",
-  },
+  // {
+  //   title: "CS Haven",
+  //   description:
+  //     "A web application for students to share their projects and carry out discussions.",
+  //   tags: ["Next.js", "TypeScript", "PostgreSQL", "Prisma", "TailwindCSS"],
+  //   imageUrl: cshavenImg,
+  //   githubUrl: "https://github.com/Elvismutinda/cs-haven",
+  //   liveUrl: "https://cshaven.vercel.app/",
+  // },
   {
     title: "Digital O.B",
     description:
