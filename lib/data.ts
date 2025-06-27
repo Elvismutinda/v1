@@ -28,8 +28,19 @@ export const links = [
 
 export const experiencesData = [
   {
+    org: "Arvocap Asset Managers",
+    title: "Frontend Web Developer",
+    description:
+      "Worked on a web platform that allows users manage their investments and track their portfolio performance.",
+    techs: ["Next.js", "Next UI", "TypeScript", "TailwindCSS"],
+    date: "NOV 2024 - PRESENT",
+    linkName: ["Arvocap Invest"],
+    links: ["https://arvocap-invest.vercel.app/"],
+    site: "https://www.arvocap.com/",
+  },
+  {
     org: "Afrib AI",
-    title: "Fullstack Engineer",
+    title: "Full-stack Engineer",
     description:
       "Worked on an ERP system using Odoo. Implemented a legal AI solution for legal practitioners.",
     techs: ["React", "Django", "Python", "Odoo"],

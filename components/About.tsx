@@ -17,44 +17,70 @@ export default function About() {
       transition={{ delay: 0.175 }}
     >
       <SectionHeading>About me</SectionHeading>
-      <p className="mb-3 text-slate-400">
-        From a young age, I have always been fascinated with computers and this
-        eventually hooked me into the world of programming. Fast-forward to
-        today, I am currently a student at the{" "}
+      <p className="mb-4 text-slate-400 text-left">
+        I'm a developer passionate about crafting accessible, pixel-perfect user
+        interfaces that blend thoughtful design with robust engineering. My
+        favorite work lies at the intersection of design and development,
+        creating experiences that not only look great but are meticulously built
+        for performance and usability.
+      </p>
+
+      <p className="mb-4 text-slate-400 text-left">
+        Currently, I'm a{" "}
+        <span className="font-medium text-slate-200">
+          Bsc. Computer Science
+        </span>{" "}
+        graduate from{" "}
         <a
           href="https://uonbi.ac.ke/"
           target="_blank"
           rel="noreferrer"
           className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300"
         >
-          University of Nairobi
+          The University of Nairobi
         </a>{" "}
-        studying{" "}
-        <span className="font-medium text-slate-200">Computer Science</span> and
-        I've had the privilege of collaborating with skilled developers at a{" "}
+        and I work as a Front-End Engineer at{" "}
+        <span className="font-medium text-slate-200">Almi Group</span> partly,
+        where I contribute to the creation and maintenance of UI components that
+        power Dr.Mordi's frontend, ensuring the platform meets web accessibility
+        standards and best practices to deliver an inclusive user experience.
+      </p>
+
+      <p className="mb-4 text-slate-400 text-left">
+        In the past, I've had the opportunity to develop software across a
+        variety of settings — from{" "}
         <a
           href="https://intellisoftkenya.com/"
           target="_blank"
           rel="noreferrer"
           className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300"
         >
-          digital health company
+          digital health companies
+        </a>{" "}
+        and{" "}
+        <a
+          href="https://www.arvocap.com/"
+          target="_blank"
+          rel="noreferrer"
+          className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300"
+        >
+          large corporations
+        </a>{" "}
+        to{" "}
+        <a
+          href="https://afrib.ai/"
+          target="_blank"
+          rel="noreferrer"
+          className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300"
+        >
+          AI start-ups
         </a>
         . My favorite part of programming is the problem-solving aspect - That
-        feeling of finally figuring out a solution to a problem. <br /> <br />
-        My core stack is{" "}
-        <span className="font-medium text-slate-200">
-          React, Next.js, Laravel,
-        </span>{" "}
-        and <span className="font-medium text-slate-200">MySQL</span>. I am also
-        familiar with{" "}
-        <span className="font-medium text-slate-200">TypeScript</span> and{" "}
-        <span className="font-medium text-slate-200">Prisma</span>. I am always
-        looking forward to learning new technologies.
+        feeling of finally figuring out a solution to a problem.
       </p>
 
-      <p className="text-slate-400">
-        In my free time I enjoy playing board/video games or watching anime.
+      <p className="text-slate-400 text-left">
+        In my spare time, I enjoy playing board/video games or watching anime.
       </p>
     </motion.section>
   );
