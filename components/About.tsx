@@ -42,7 +42,7 @@ export default function About() {
         and I work as a Front-End Engineer at{" "}
         <span className="font-medium text-slate-200">Almi Group</span> partly,
         where I contribute to the creation and maintenance of UI components that
-        power Dr.Mordi's frontend, ensuring the platform meets web accessibility
+        power Dr. Mordi's frontend, ensuring the platform meets web accessibility
         standards and best practices to deliver an inclusive user experience.
       </p>
 
