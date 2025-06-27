@@ -47,7 +47,7 @@ export default function Intro() {
         </span>
         <br />
         <span className="mt-3 text-lg font-medium tracking-tight text-slate-200 sm:text-xl">
-          Software Developer
+          Software Engineer
         </span>
         <p className="mt-4 leading-normal text-slate-400 text-lg">
           I build accessible software applications on the web.
