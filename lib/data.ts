@@ -28,6 +28,16 @@ export const links = [
 
 export const experiencesData = [
   {
+    org: "Nextrans LIT Solutions Limited",
+    title: "Software Engineer",
+    description: "Working on pharmaceutical web solutions.",
+    techs: ["Angular", "Laravel", "DevExtreme", "Postgres"],
+    date: "JULY 2025 - PRESENT",
+    linkName: [],
+    links: [],
+    site: "https://nextranssolutions.co.ke/",
+  },
+  {
     org: "Arvocap Asset Managers",
     title: "Frontend Web Developer",
     description:
@@ -65,7 +75,7 @@ export const experiencesData = [
     title: "Software Engineer",
     description:
       "Collaborated with other skilled software developers on digital health projects to build systems for health organizations in the world.",
-    techs: ["Java", "React", "Angular.js", "SCSS", "JavaScript", "Laravel"],
+    techs: ["Java", "React", "Angular", "SCSS", "JavaScript", "Laravel"],
     date: "JUL 2023 - OCT 2023",
     linkName: ["OpenMRS", "PMI Kinga Malaria", "Bahmni Helium Health"],
     links: [
