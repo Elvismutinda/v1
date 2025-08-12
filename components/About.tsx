@@ -39,11 +39,19 @@ export default function About() {
         >
           The University of Nairobi
         </a>{" "}
-        and I work as a Front-End Engineer at{" "}
-        <span className="font-medium text-slate-200">Almi Group</span> partly,
-        where I contribute to the creation and maintenance of UI components that
-        power Dr. Mordi's frontend, ensuring the platform meets web accessibility
-        standards and best practices to deliver an inclusive user experience.
+        and I work as a Software Developer at{" "}
+        <a
+          href="https://nextranssolutions.co.ke/"
+          target="_blank"
+          rel="noreferrer"
+          className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300"
+        >
+          Nextrans LIT Solutions Limited
+        </a>
+        where I contribute to the creation and maintenance of Regulatory
+        Information Management Systems (RIMS), ensuring the platform meets web
+        accessibility standards and best practices to deliver an inclusive user
+        experience.
       </p>
 
       <p className="mb-4 text-slate-400 text-left">
