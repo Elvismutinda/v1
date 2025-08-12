@@ -49,7 +49,7 @@ export default function About() {
           Nextrans LIT Solutions Limited{" "}
         </a>
         where I contribute to the development and maintenance of Regulatory
-        Information Management Systems (RIMS), ensuring the platform meets web
+        Information Management Systems (RIMS), ensuring the platforms meet web
         accessibility standards and best practices to deliver an inclusive user
         experience.
       </p>
