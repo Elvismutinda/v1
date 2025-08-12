@@ -29,8 +29,8 @@ export const links = [
 export const experiencesData = [
   {
     org: "Nextrans LIT Solutions Limited",
-    title: "Software Engineer",
-    description: "Working on pharmaceutical web solutions.",
+    title: "Software Developer",
+    description: "Working on Regulatory Information Management Systems (RIMS).",
     techs: ["Angular", "Laravel", "DevExtreme", "Postgres"],
     date: "JULY 2025 - PRESENT",
     linkName: [],
