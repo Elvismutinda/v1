@@ -46,7 +46,7 @@ export default function About() {
           rel="noreferrer"
           className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300"
         >
-          Nextrans LIT Solutions Limited
+          Nextrans LIT Solutions Limited{" "}
         </a>
         where I contribute to the creation and maintenance of Regulatory
         Information Management Systems (RIMS), ensuring the platform meets web
