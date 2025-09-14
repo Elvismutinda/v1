@@ -47,7 +47,7 @@ export const experiencesData = [
     description:
       "Worked on a web platform that allows users manage their investments and track their portfolio performance.",
     techs: ["Next.js", "Next UI", "TypeScript", "TailwindCSS"],
-    date: "NOV 2024 - PRESENT",
+    date: "NOV 2024 - MAY 2025",
     linkName: ["Arvocap Invest"],
     links: ["https://arvocap-invest.vercel.app/"],
     site: "https://www.arvocap.com/",
