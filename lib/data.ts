@@ -30,11 +30,15 @@ export const experiencesData = [
   {
     org: "Nextrans LIT Solutions Limited",
     title: "Software Developer",
-    description: "Working on Regulatory Information Management Systems (RIMS).",
+    description:
+      "Collaborating with skilled developers on the development of Regulatory Information Management Systems (RIMS).",
     techs: ["Angular", "Laravel", "DevExtreme", "Postgres"],
     date: "JULY 2025 - PRESENT",
     linkName: ["ABREMA uRIMS", "AUDA-NEPAD eCRES"],
-    links: ["https://abrema.nsl-consultancy.africa:58797", "http://ecres.auda-nepad.org"],
+    links: [
+      "https://abrema.nsl-consultancy.africa:58797",
+      "http://ecres.auda-nepad.org",
+    ],
     site: "https://nextranssolutions.co.ke/",
   },
   {
