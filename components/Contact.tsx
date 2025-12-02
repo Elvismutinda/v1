@@ -38,7 +38,7 @@ export default function Contact() {
         Have a project in mind or just want to chat? Feel free to reach out.
       </p>
 
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-12 bg-slate-700/30 p-8 rounded-3xl ">
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-12 bg-slate-700/30 p-8 rounded-md ">
         <div className="space-y-8">
           <h3 className="text-lg font-semibold text-slate-200">Contact Information</h3>
           <div className="space-y-6">
