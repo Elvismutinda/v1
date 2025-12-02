@@ -72,7 +72,7 @@ export default function About() {
           rel="noreferrer"
           className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300"
         >
-          large corporations
+          investment corporations
         </a>{" "}
         to{" "}
         <a
@@ -88,7 +88,7 @@ export default function About() {
       </p>
 
       <p className="text-slate-400 text-left">
-        In my spare time, I enjoy playing board/video games or watching anime.
+        In my spare time, I enjoy playing board/video games.
       </p>
     </motion.section>
   );
