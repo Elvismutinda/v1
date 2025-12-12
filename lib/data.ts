@@ -141,6 +141,22 @@ export const projectsData = [
 export const archiveData = [
   {
     year: "2025",
+    title: "ABREMA uRIMS",
+    madeAt: "Nextrans LIT Solutions Limited",
+    builtWith: ["Angular", "Laravel", "DevExtreme", "Postgres"],
+    link: "https://abrema.nsl-consultancy.africa:58797",
+    linkDisplay: "ABREMA uRIMS",
+  },
+  {
+    year: "2025",
+    title: "AUDA-NEPAD eCRES",
+    madeAt: "Nextrans LIT Solutions Limited",
+    builtWith: ["Angular", "Laravel", "DevExtreme", "Postgres"],
+    link: "http://ecres.auda-nepad.org",
+    linkDisplay: "AUDA-NEPAD eCRES",
+  },
+  {
+    year: "2025",
     title: "Intelaw",
     madeAt: "University of Nairobi",
     builtWith: [
@@ -175,7 +191,7 @@ export const archiveData = [
     year: "2024",
     title: "Dr. Mordi",
     madeAt: "E-novation Centre",
-    builtWith: ["React Native", "TypeScript", "TailwindCSS"],
+    builtWith: ["Next.js", "React Native", "TypeScript", "TailwindCSS"],
     link: "",
     linkDisplay: "",
   },
