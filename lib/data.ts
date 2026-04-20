@@ -2,6 +2,7 @@ import cshavenImg from "@/public/cshaven.png";
 import digitalobImg from "@/public/digitalob.png";
 import careplusImg from "@/public/careplus.png";
 import intelawImg from "@/public/intelaw.png";
+import mkrImg from "@/public/mkr.png";
 
 export const links = [
   {
@@ -93,6 +94,22 @@ export const experiencesData = [
 
 export const projectsData = [
   {
+    title: "MKR Sports",
+    description:
+      "A Kenyan sports website for management of players, turfs, tournaments, etc.",
+    tags: [
+      "Next.js",
+      "TypeScript",
+      "TailwindCSS",
+      "PostgreSQL",
+      "NeonDB",
+      "Drizzle ORM",
+    ],
+    imageUrl: mkrImg,
+    githubUrl: "https://github.com/Elvismutinda/mkr-sports-client-portal",
+    liveUrl: "https://mkr-sports.vercel.app/",
+  },
+  {
     title: "Intelaw",
     description:
       "A legal research tool that helps legal practitioners in their legal research.",
@@ -139,6 +156,21 @@ export const projectsData = [
 ] as const;
 
 export const archiveData = [
+  {
+    year: "2026",
+    title: "MKR Sports",
+    madeAt: "",
+    builtWith: [
+      "Next.js",
+      "TypeScript",
+      "TailwindCSS",
+      "PostgreSQL",
+      "NeonDB",
+      "Drizzle ORM",
+    ],
+    link: "https://github.com/Elvismutinda/mkr-sports-client-portal",
+    linkDisplay: "MKR Sports",
+  },
   {
     year: "2025",
     title: "ABREMA uRIMS",
