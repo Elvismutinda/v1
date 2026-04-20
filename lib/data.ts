@@ -168,7 +168,7 @@ export const archiveData = [
       "NeonDB",
       "Drizzle ORM",
     ],
-    link: "https://github.com/Elvismutinda/mkr-sports-client-portal",
+    link: "https://mkr-sports.vercel.app/",
     linkDisplay: "MKR Sports",
   },
   {
