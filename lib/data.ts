@@ -70,7 +70,7 @@ export const experiencesData = [
     description:
       "Worked on a health care solution that integrates different health care services into one platform.",
     techs: ["React Native", "Next.js", "TypeScript", "TailwindCSS"],
-    date: "MAR 2024 - PRESENT",
+    date: "MAR 2024 - AUG 2025",
     linkName: [],
     links: [],
     site: "",
